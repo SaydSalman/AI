@@ -12,7 +12,7 @@ const SignUp = () => {
       
       <div className="w-full lg:w-1/2 flex justify-center items-center">
         <div className="max-w-md w-full p-8 bg-white rounded-lg shadow-lg">
-          <h2 className="text-2xl font-semibold mb-4">Login</h2>
+          <h2 className="text-2xl font-semibold mb-4">Register</h2>
           <form>
             <div className="mb-4">
               <label htmlFor="username" className="block text-gray-700 text-sm font-bold mb-2">Username</label>
